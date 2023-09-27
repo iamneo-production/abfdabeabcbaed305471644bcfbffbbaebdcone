@@ -36,3 +36,84 @@
     transform: rotate(360deg);
   }
 }
+
+/* App.css */
+.App {
+  text-align: center;
+}
+
+nav {
+  background-color: #333;
+  padding: 20px;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-size: 2rem;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 20px;
+  padding: 0 12px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav ul li a:hover {
+  text-decoration: underline;
+}
+
+
+/* HomePage.css */
+.container {
+  text-align: center;
+  padding: 50px;
+}
+
+.container h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.container p {
+  font-size: 1.2rem;
+}
+
+
+/* AboutPage.css */
+.container {
+  text-align: center;
+  padding: 50px;
+}
+
+.container h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.container p {
+  font-size: 1.2rem;
+}
+
+
+/* ContactPage.css */
+.container {
+  text-align: center;
+  padding: 50px;
+}
+
+.container h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.container p {
+  font-size: 1.2rem;
+}
